@@ -9,7 +9,7 @@
     "author": "JacobSwetmore",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "mongoose": "^5.8.1",
         "monk": "^7.1.2",
         "pug": "^2.0.4"
